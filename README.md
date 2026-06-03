@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <a href="https://github.com/etodastandetka">
     <img src="https://readme-typing-svg.demolab.com/?lines=hey,+i'm+etodastandetka.;web+dev+%2F+game+dev;building+things+that+matter...&font=Fira+Code&center=true&width=640&height=50&color=e6edf3&vCenter=true&pause=1000&size=28" />
   </a>
@@ -29,36 +29,36 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `💻` Tech Stack
+## `рџ’»` Tech Stack
 
 **Languages:**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-e6edf3?style=flat-square&logo=javascript&logoColor=0d1117&color=161b22)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-e6edf3?style=flat-square&logo=typescript&logoColor=0d1117&color=161b22)&nbsp;
-![Python](https://img.shields.io/badge/Python-e6edf3?style=flat-square&logo=python&logoColor=0d1117&color=161b22)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-e6edf3?style=flat-square&logo=html5&logoColor=0d1117&color=161b22)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-e6edf3?style=flat-square&logo=css3&logoColor=0d1117&color=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-e6edf3?style=flat-square&logo=javascript&logoColor=ffffff&color=161b22)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-e6edf3?style=flat-square&logo=typescript&logoColor=ffffff&color=161b22)&nbsp;
+![Python](https://img.shields.io/badge/Python-e6edf3?style=flat-square&logo=python&logoColor=ffffff&color=161b22)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-e6edf3?style=flat-square&logo=html5&logoColor=ffffff&color=161b22)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-e6edf3?style=flat-square&logo=css3&logoColor=ffffff&color=161b22)
 
 **Frameworks & Libraries:**
 
-![Next.js](https://img.shields.io/badge/Next.js-e6edf3?style=flat-square&logo=nextdotjs&logoColor=0d1117&color=161b22)&nbsp;
-![React](https://img.shields.io/badge/React-e6edf3?style=flat-square&logo=react&logoColor=0d1117&color=161b22)&nbsp;
-![Phaser](https://img.shields.io/badge/Phaser_3-e6edf3?style=flat-square&logo=javascript&logoColor=0d1117&color=161b22)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-e6edf3?style=flat-square&logo=nodedotjs&logoColor=0d1117&color=161b22)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind-e6edf3?style=flat-square&logo=tailwindcss&logoColor=0d1117&color=161b22)
+![Next.js](https://img.shields.io/badge/Next.js-e6edf3?style=flat-square&logo=nextdotjs&logoColor=ffffff&color=161b22)&nbsp;
+![React](https://img.shields.io/badge/React-e6edf3?style=flat-square&logo=react&logoColor=ffffff&color=161b22)&nbsp;
+![Phaser](https://img.shields.io/badge/Phaser_3-e6edf3?style=flat-square&logo=javascript&logoColor=ffffff&color=161b22)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-e6edf3?style=flat-square&logo=nodedotjs&logoColor=ffffff&color=161b22)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-e6edf3?style=flat-square&logo=tailwindcss&logoColor=ffffff&color=161b22)
 
 **Tools & Platforms:**
 
-![Git](https://img.shields.io/badge/Git-e6edf3?style=flat-square&logo=git&logoColor=0d1117&color=161b22)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&logo=github&logoColor=0d1117&color=161b22)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-e6edf3?style=flat-square&logo=visualstudiocode&logoColor=0d1117&color=161b22)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-e6edf3?style=flat-square&logo=sqlite&logoColor=0d1117&color=161b22)&nbsp;
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-e6edf3?style=flat-square&logo=telegram&logoColor=0d1117&color=161b22)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-e6edf3?style=flat-square&logo=vercel&logoColor=0d1117&color=161b22)
+![Git](https://img.shields.io/badge/Git-e6edf3?style=flat-square&logo=git&logoColor=ffffff&color=161b22)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&logo=github&logoColor=ffffff&color=161b22)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-e6edf3?style=flat-square&logo=visualstudiocode&logoColor=ffffff&color=161b22)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-e6edf3?style=flat-square&logo=sqlite&logoColor=ffffff&color=161b22)&nbsp;
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-e6edf3?style=flat-square&logo=telegram&logoColor=ffffff&color=161b22)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-e6edf3?style=flat-square&logo=vercel&logoColor=ffffff&color=161b22)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `📊` GitHub Stats
+## `рџ“Љ` GitHub Stats
 
 <p>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=etodastandetka&theme=github-dark-blue&hide_border=true&sideNums=e6edf3&fire=8b949e&dates=8b949e&stroke=21262d&ring=8b949e" /><br><br>
@@ -72,7 +72,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `🐍` Contribution Snake
+## `рџђЌ` Contribution Snake
 
 <img src="https://raw.githubusercontent.com/etodastandetka/etodastandetka/snake/github-snake-dark.svg" width="100%">
 
@@ -102,3 +102,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etodastandetka&style=flat-square&color=161b22&label=profile+views&labelColor=0d1117" />
 </p>
+
