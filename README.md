@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://github.com/etodastandetka">
     <img src="https://readme-typing-svg.demolab.com/?lines=hey,+i'm+etodastandetka.;web+dev+%2F+game+dev;building+things+that+matter...&font=Fira+Code&center=true&width=640&height=50&color=e6edf3&vCenter=true&pause=1000&size=28" />
   </a>
@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `рџ’»` Tech Stack
+## `[stack]` Tech Stack
 
 **Languages:**
 
@@ -58,7 +58,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `рџ“Љ` GitHub Stats
+## `[stats]` GitHub Stats
 
 <p>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=etodastandetka&theme=github-dark-blue&hide_border=true&sideNums=e6edf3&fire=8b949e&dates=8b949e&stroke=21262d&ring=8b949e" /><br><br>
@@ -72,13 +72,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `рџђЌ` Contribution Snake
+## `[snake]` Contribution Snake
 
 <img src="https://raw.githubusercontent.com/etodastandetka/etodastandetka/snake/github-snake-dark.svg" width="100%">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## `🗺️` 3D Contribution Graph
+## `[3d]` 3D Contribution Graph
 
 <img src="https://raw.githubusercontent.com/etodastandetka/etodastandetka/output-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
 
@@ -108,4 +108,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etodastandetka&style=flat-square&color=161b22&label=profile+views&labelColor=0d1117" />
 </p>
-
